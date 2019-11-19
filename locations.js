@@ -6,8 +6,8 @@ export default data = [
     },
     {
         name:'Evan',
-        likes: [],
-        dislikes: ["Lemon Tree", "Edible Matters", "Ela"]
+        likes: ["Upstreet", "True North", "Sushi", "Cha Ba Thai"],
+        dislikes: ["Lemon Tree", "Edible Matters", "Ela", "Subway"]
     },
     {
         name:'Justin',
